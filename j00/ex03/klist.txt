@@ -1,0 +1,8 @@
+Credentials cache: API:6260CD12-D36B-434E-AFCC-EE4DBF74AAB4
+        Principal: jgelpy@42.FR
+
+  Issued                Expires               Principal
+Aug  1 16:42:29 2017  Aug  8 16:42:29 2017  krbtgt/42.FR@42.FR
+Aug  1 16:42:32 2017  Aug  8 16:42:29 2017  ldap/ldap-proxy.42.fr@42.FR
+Aug  1 16:42:32 2017  Aug  8 16:42:29 2017  HTTP/student-storage-1.42.fr@42.FR
+Aug  1 17:05:32 2017  Aug  8 16:42:29 2017  host/vgs-fn1.42.fr@42.FR
